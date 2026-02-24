@@ -1,0 +1,68 @@
+<!DOVTYPE html>
+<head>
+</head>
+<html>
+<body>
+<h1>Hekasoft Backup &amp; Restore 0.72_备份浏览器配置文件夹</h1>
+
+<p>&nbsp;</p>
+
+<p>浏览器重新安装之后，之前更改的各种设置都会消失，你不得不重复进行手动更改，但实际上，你只需要备份浏览器的配置文件夹，事后再还原即可。像备份/还原浏览器配置文件夹这些操作，就交给Hekasoft Backup &amp; Restore处理吧，因为它非常方便。</p>
+
+<p>2018-3-10更新</p>
+
+<p>Hekasoft Backup &amp; Restore 0.72发布。</p>
+
+<p>由于浏览器的种类很多，配置文件夹所在的地方也不同，有些路径很深很难找，所以手动操作的话，肯定没有使用软件来的方便。而Hekasoft Backup &amp; Restore在这方面非常的专业。</p>
+
+<p>这个软件体积为3.6M，十分的小，现在已经带有中文界面了，安装之后，操作异常简单，你只需要选择浏览器类型，选择是备份操作还是还原，最后点击start按钮即可。</p>
+
+<p>备份文件以.backup结尾，实际上它是只是一个zip压缩包，你可以使用任何压缩/解压缩软件提取其中的文件。</p>
+
+<p>而各种浏览器配置文件夹所在路径Hekasoft Backup &amp; Restore会自动判断，无需你操心。</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Hekasoft Backup &amp; Restore支持的浏览器种类：</p>
+
+<p>Comodo Dragon</p>
+
+<p>FileZilla</p>
+
+<p>Google Chrome</p>
+
+<p>Mozilla Calendar/Sunbird</p>
+
+<p>Mozilla Firefox</p>
+
+<p>Mozilla Thunderbird</p>
+
+<p>Opera</p>
+
+<p>Pale Moon</p>
+
+<p>avant browser</p>
+
+<p>maxthon 3</p>
+
+<p>rockmelt</p>
+
+<p>safari</p>
+
+<p>seamonkey</p>
+
+<p>skype</p>
+
+<p>srware iron</p>
+
+<p>当你使用这个软件后，会发现除了设置之外，书签、扩展等东西也会被备份和还原，直接省去了同步书签和重新安装扩展的操作，可以说是一举几得。</p>
+
+<p>除此之外，浏览器在不同电脑之间迁移你也可以利用Hekasoft Backup &amp; Restore省去不少麻烦。</p>
+
+<p>本文地址：</p>
+
+<p>http://www.rjno1.com/infor/fun/1188-hekasoft-backup-restore.html</p>
+</body>
+</html>
